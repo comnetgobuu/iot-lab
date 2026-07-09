@@ -1,0 +1,27 @@
+Windows 11 
+Device Manager
+install CP210X
+
+install ArduinoIDE 2.3.10
+
+
+ArduinoIDE 2.3.10
+
+File > Preference >
+https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
+
+Board Manager > esp32 
+esp32 by Espressif Systems
+
+Libraly Manager > 
+DHT
+Adafruit Unified Sensor by Adafruit
+
+Tool > Board > ESP32 > NodeMCU-32S
+
+On Windows11 File Contain
+C:\Users\admin\Documents\Arduino\libraries\*
+C:\Users\admin\AppData\Local\Arduino15\*
+C:\Users\admin\AppData\Local\arduino\*
+
+
